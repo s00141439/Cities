@@ -1,10 +1,3 @@
-Dublin
-Rome
-Riga
-Rochester
-Rotherham
-Rhyl
-Seoul
-Lyon
-Nairobi
-Bangalore
+Aachen
+Brussels
+Cairo
