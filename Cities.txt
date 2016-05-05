@@ -1,3 +1,5 @@
 Aachen
 Brussels
 Cairo
+Derby
+Edinburgh
