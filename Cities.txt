@@ -1,5 +1,13 @@
 Dublin
+<<<<<<< HEAD
 Paris
 Lisbon
 Cairo
 Lagos
+=======
+Rome
+Riga
+Rochester
+Rotherham
+Rhyl
+>>>>>>> 904249447a8d383dfdc3fa537bb4d63de26d74cd
