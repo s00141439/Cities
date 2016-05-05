@@ -6,3 +6,5 @@ Rotherham
 Rhyl
 Seoul
 Lyon
+Nairobi
+Bangalore
